@@ -311,7 +311,7 @@ namespace eval incith::kurs {
     }
 
     # send the result
-     send_output $output(chan) "3Google Finance 74 $output(amount)1 $output(curfrom) 7⇨3 $output(curamount)1 $output(curinto)."
+     send_output $output(chan) "3Konversi Mata Uang 712 $output(amount)1 $output(curfrom) 4=12 $output(curamount)1 $output(curinto)."
 #    if {($output(curamount) != "inf"} {
 #		if {($output(curamount) != "nan"} {
 #      send_output $output(chan) "\00304$output(amount)\003\002 $output(curfrom) \002makes\00303 $output(curamount)\003\002 $output(curinto)\002."
